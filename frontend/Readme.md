@@ -12,7 +12,7 @@ This is the frontend application for the Marketplace, built using **React**.js. 
 
 ### 1. **Install Dependencies**
 ```bash
-cd marketplace-frontend
+cd frontend
 npm install react react-dom react-router-dom axios
 ```
 
