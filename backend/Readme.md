@@ -11,7 +11,7 @@ This is the backend API for the Marketplace application built using **Node.js** 
 
 ### 1. **Install Dependencies**
 ```bash
-cd marketplace-backend
+cd backend
 npm install express body-parser cors axios airtable
 ```
 
