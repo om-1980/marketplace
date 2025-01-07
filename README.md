@@ -58,5 +58,5 @@ This project is a marketplace application built using the **ERN stack** (Express
 
 1. **Clone the Repository**  
    ```bash  
-   git clone https://github.com/your-repository-url.git  
-   cd your-project-directory  
+   git clone https://github.com/om-1980/marketplace
+   cd marketplace
