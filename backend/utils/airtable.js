@@ -1,7 +1,9 @@
+require('dotenv').config(); // Use dotenv for environment variables
+
 const Airtable = require('airtable');
 
-const airtableApiKey = patkEXwIwCyfN6sdJ.c4530ab9389610f2879210c33188c8cdd3a0b12ecf31e54bad21106fd88f4d23;
-const airtableBaseId = appFkXEQOQRyieIqN;
+const airtableApiKey = process.env.AIRTABLE_API_KEY;
+const airtableBaseId = process.env.AIRTABLE_BASE_ID;
 
 if (!airtableApiKey || !airtableBaseId) {
   throw new Error('Airtable API Key or Base ID is missing.');
