@@ -19,16 +19,13 @@ You can access the live project here: [Simplified Marketplace](https://marketpla
 ## Screenshots  
 
 ### Homepage
-![Homepage](![image](https://github.com/user-attachments/assets/47558bfa-535c-4f1e-ba13-4b5b77452f8b)
-)
+![Homepage](./screenshots/homepage.png)
 
 ### Product Listing
-![Product Listing](![image](https://github.com/user-attachments/assets/371712f5-cb61-4d27-8113-06f59d0b2a35)
-)
+![Product Listing](./screenshots/product-listing.png)
 
 ### Order Placement
-![Order Placement](![image](https://github.com/user-attachments/assets/ce4b93ae-364e-425a-b061-ffb310d576bf)
-)
+![Order Placement](./screenshots/order-placement.png)
 
 ---
 
